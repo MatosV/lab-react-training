@@ -1,0 +1,12 @@
+.CreditCard{
+  display: flex;
+	justify-content: center;
+}
+
+.card {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+  width: 25%;
+  margin-right: 2em;
+}
