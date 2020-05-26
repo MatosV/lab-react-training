@@ -7,7 +7,7 @@ const BoxColor = (props) => {
   const b = props.b;
 
   return (
-    <span className="colorBox" >rgb({r}, {g}, {b})</span>
+    <span className="colorBox" style={{backgroundColor: `rgb(${r}, ${g}, ${b})`}}>rgb({r}, {g}, {b})</span>
   );
 };
 

@@ -1,0 +1,29 @@
+.DriverCard{
+  margin: 3em 0;
+}
+
+.drive{
+  width: 70%;
+  border-radius: 2em;
+  background-color: #455eb5;
+  display: flex;
+  justify-content: center;
+  padding: 5em;
+  margin: 0 auto;
+}
+
+.drive.middle{
+  margin-bottom: 2em;
+}
+
+.drive p,
+h2{
+  color:white;
+  display: flex;
+  justify-content: ;
+}
+
+.drive img{
+  width: 20%;
+  border-radius: 50%;
+}
